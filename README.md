@@ -1,4 +1,3 @@
-# video-call
 # WebRTC Video Call Project
 
 This project is a basic setup for a WebRTC application, allowing video calls between devices on the same network or over the internet using webrtc and socket.io .
