@@ -14,7 +14,7 @@ Run the following command to install the necessary dependencies:
 npm install
 ```
 
-###2. Start the Server
+### 2. Start the Server
 Start the server by running the following command:
 
 ```bash
@@ -27,7 +27,7 @@ Once the server is running, open your browser and go to:
 ```bash
 http://localhost:9000
 ```
-###4. Connect with Another Device
+### 4. Connect with Another Device
   To connect to another device on the same network, use the following steps:
   Download and install ngrok.
   Run the following command to expose your local server to the internet:
